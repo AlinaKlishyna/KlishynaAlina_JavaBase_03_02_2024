@@ -30,3 +30,4 @@ bin/
 desktop.ini
 HelloWorld.iml
 *.xml
+/target
